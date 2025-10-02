@@ -1,7 +1,0 @@
-.hero-background {
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIsRudUFAoan9qKMb_XWInTGIAAJtpt-lPyBN_-B0_NidMNkPMUAa3v_sh-hG7UJnMl1gx8g&s');
-    background-size: cover;
-    background-position: center;
-    /* Optional: Set a minimum height if needed */
-    min-height: 400px; 
-}
